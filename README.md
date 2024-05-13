@@ -6,21 +6,31 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmarSantana&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarSantana&layout=compact&langs_count=16&theme=yeblu"/>
 </div>
-<hr>
 
-
-
-<div align="center">
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="php-icon" src="https://www.php.net//images/logos/new-php-logo.svg">
+  </div>
+    
+    
   <h1 align="center">Redes Sociais e contato</h1>
-  <a href="https://www.linkedin.com/in/gilmar-santana-lins-53b390126/">
-    <img src="./linkedin-logo.svg" width="35">
-  </a>
-  <a href="mailto: gilmar.livecont@gmail.com">
-    <img src="./google-logo.svg" width="30">
-  </a>
+
+  <a href = "https://www.linkedin.com/in/gilmar-santana-lins-53b390126/">
+    <img width="25" src="linkedin-logo.svg">
+  </a>    
+  <a href = "mailto: gilmar.livecont@gmail.com">
+    <img width="30" src="google-logo.svg">
+  </a>   
   <a href="https://wa.me/5511981957113">
     <img src="./whatsapp-logo.svg" width="30">
   </a>    
+  <a href = "https://www.instagram.com/devparadev/">
+    <img width="25" src="instagram.png">
+  </a>
 </div>
 
 ![Snake animation](https://github.com/gilmarSantana/gilmarSantana/blob/output/github-contribution-grid-snake.svg)
