@@ -11,17 +11,14 @@
 
 <div  align="center">
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://www.linkedin.com/in/gilmar-santana-lins-53b390126">
-      <img width="25" src="linkedin-logo.svg">
+    <a href = "https://www.linkedin.com/in/gilmar-santana-lins-53b390126" target="_blank">
+      <img width="30" src="linkedin-logo.svg">
     </a>
-    <a href = "mailto:gilmar.livecont@gmail.com">
-      <img width="30" src="google-logo.svg">
+    <a href = "mailto:gilmar.livecont@gmail.com" target="_blank">
+      <img width="30" src="google-logo.svg" alt="google-logo">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
+    <a href = "https://wa.me/5511981957113">
+      <img width="30" src="whatsapp-logo.svg" alt="WhatsApp logo">
     </a>
 </div>
   
