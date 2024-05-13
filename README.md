@@ -4,7 +4,7 @@
 
 <div style="display:flex; flex-direction: row; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmarSantana&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gilmar Santana"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarSantana&layout=compact&langs_count=16&theme=yeblu" alt="Principais linguagens de Gilmar Santana no GitHub"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarSantana&layout=compact&langs_count=16&theme=yeblu" alt="Principais linguagens de Gilmar Santana no GitHub"/>
 </div>
 
 <br>
