@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=180&section=header&text=Gilmar+Santana+Lins&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
-<div style="display:flex; flex-direction: row;">
+<div style="display:flex; flex-direction: row; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmarSantana&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gilmar Santana"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarSantana&layout=compact&langs_count=16&theme=yeblu" alt="Principais linguagens de Gilmar Santana no GitHub"/>
 </div>
