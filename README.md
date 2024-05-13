@@ -11,7 +11,7 @@
 
 <div  align="center">
   <h1 align="center">Redes Sociais</h1>
-    <a href = "https://www.linkedin.com/in/gilmar-santana-lins-53b390126" target="_blank" style="text-decoration: none;">
+    <a href = "https://www.linkedin.com/in/gilmar-santana-lins-53b390126" target="_blank" style="text-decoration: none; color: transparent">
       <img width="30" src="linkedin-logo.svg">
     </a>
     <a href = "mailto:gilmar.livecont@gmail.com" target="_blank" style="text-decoration: none;">
