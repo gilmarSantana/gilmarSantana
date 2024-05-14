@@ -4,8 +4,8 @@
 
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Desenvolvedor de Software na NYBC.
-- 🌱 Aprendendo mais sobre PHP, JavaScript, NodeJs, Python, Postgres...
+- 💼 Trabalhando como Desenvolvedor de Software na S.Prochownik.
+- 🌱 Aprendendo mais sobre POO, PHP, JavaScript, NodeJs, Python, Postgres...
 
  
 ## GitHub Status
@@ -19,4 +19,4 @@
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-gilmarSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-santana-lins-53b390126)](https://www.linkedin.com/in/gilmar-santana-lins-53b390126)
 [![Gmail Badge](https://img.shields.io/badge/-gilmar.livecont@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmar.livecont@gmail.com)](mailto:gilmar.livecont@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/gilmarSantana)
+[![GitHub](https://img.shields.io/github/followers/gilmarSantana?label=follow&style=social)](https://github.com/gilmarSantana)
