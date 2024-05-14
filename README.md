@@ -8,6 +8,8 @@
 </div>
 
 <br>
+![snake gif](https://github.com/gilmarSantana/gilmarSantana/blob/output/github-contribution-grid-snake.svg)
+<br>
 
 <div  align="center">
   <h1 align="center">Redes Sociais</h1>
@@ -21,6 +23,3 @@
       <img width="30" src="whatsapp-logo.svg" alt="WhatsApp logo">
     </a>
 </div>
-
-![snake gif](https://github.com/gilmarSantana/gilmarSantana/blob/output/github-contribution-grid-snake.svg)
-
