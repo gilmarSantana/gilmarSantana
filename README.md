@@ -6,7 +6,7 @@
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarSantana&layout=compact&langs_count=16&theme=yeblu" alt="Principais linguagens de Gilmar Santana no GitHub"/>
 </div>
 <br>
-
+<p>⭐ GitHub Stats</p>
 <img src="https://github.com/gilmarSantana/gilmarSantana/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <br>
