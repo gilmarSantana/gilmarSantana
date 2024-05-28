@@ -5,7 +5,7 @@
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Trabalhando como Desenvolvedor de Software na S.Prochownik.
-- 🦾 Aprendendo mais sobre POO, PHP, JavaScript, NodeJs, Python, Postgres...
+- 🦾 Aprendendo mais sobre POO, PHP, JavaScript, NodeJs, Python, Postgres, etc...
 
  
 ## GitHub Status
