@@ -3,8 +3,8 @@
 </div>
 
 ## Sobre mim
+- 💼 Trabalhando como Desenvolvedor de Software na [S.Prochownik.](https://www.lojanybc.com.br/sobre/)
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como Desenvolvedor de Software na S.Prochownik.
 - 🦾 Aprendendo mais sobre POO, PHP, JavaScript, NodeJs, Python, Postgres, etc...
 
  
