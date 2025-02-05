@@ -2,13 +2,13 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=002046&height=180&section=header&text=Gilmar+Santana+Lins&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
-## Sobre mim
-Sobre Mim
-Sou um desenvolvedor web com experiência no desenvolvimento e manutenção de sistemas corporativos, especialmente para otimização de processos empresariais. Tenho forte atuação no backend e frontend, garantindo que as soluções sejam eficientes, escaláveis e responsivas para diferentes dispositivos, como PCs, celulares e coletores de dados.
+# Sobre mim
 
-Tenho experiência em bancos de dados relacionais, integração de sistemas e automação de processos, sempre buscando melhorar a eficiência e usabilidade das aplicações. Também possuo conhecimento em análise de requisitos e processos, ajudando a traduzir necessidades de negócios em soluções tecnológicas viáveis.
+## Sou um desenvolvedor web com experiência no desenvolvimento e manutenção de sistemas corporativos, especialmente para otimização de processos empresariais. Tenho forte atuação no backend e frontend, garantindo que as soluções sejam eficientes, escaláveis e responsivas para diferentes dispositivos, como PCs, celulares e coletores de dados.
 
-Minha experiência inclui o desenvolvimento de sistemas para logística, gestão de pedidos e ERP, garantindo maior controle e eficiência nas operações. Busco sempre melhorar minhas habilidades e adotar boas práticas para criar aplicações de alto desempenho.
+## Tenho experiência em bancos de dados relacionais, integração de sistemas e automação de processos, sempre buscando melhorar a eficiência e usabilidade das aplicações. Também possuo conhecimento em análise de requisitos e processos, ajudando a traduzir necessidades de negócios em soluções tecnológicas viáveis.
+
+## Minha experiência inclui o desenvolvimento de sistemas para logística, gestão de pedidos e ERP, garantindo maior controle e eficiência nas operações. Busco sempre melhorar minhas habilidades e adotar boas práticas para criar aplicações de alto desempenho.
 
 - 💼 Desenvolvendo projetos com a [S.Prochownik.](https://www.lojanybc.com.br/sobre/)
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
