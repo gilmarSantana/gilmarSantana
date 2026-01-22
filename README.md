@@ -23,21 +23,8 @@ Atuo fortemente no **backend** e também entrego interfaces **responsivas e intu
 
 - 🧠 POO em linguagens modernas
 - 📦 Containers e microserviços
-- 🕸️ WebSocket, APIs REST e integrações
+- 🕸️ APIs REST e integrações
 - 🧪 Testes automatizados
-- 🌐 SPA com frameworks JS
-
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="display:flex; flex-direction: column;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilmarSantana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <br />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmarSantana&layout=compact&langs_count=8&theme=radical"/>
-  <br />
-  <img src="https://github.com/gilmarSantana/gilmarSantana/blob/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
 
 ---
 
