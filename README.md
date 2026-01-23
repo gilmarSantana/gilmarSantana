@@ -37,6 +37,19 @@ Desenvolvedor Full Stack com 5 anos de experiência em sistemas corporativos par
 [![Email](https://img.shields.io/badge/Gmail-gilmar.livecont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilmar.livecont@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/gilmarSantana?label=Seguir&style=social)](https://github.com/gilmarSantana)
 
+<a href="https://www.linkedin.com/in/gilmar-santana-lins-53b390126" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gilmar%20Santana%20Lins-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gilmar.livecont@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-gilmar.livecont@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/gilmarSantana" target="_blank">
+  <img src="https://img.shields.io/github/followers/gilmarSantana?label=Seguir&style=social" />
+</a>
+
+
 ---
 
 > _“Não é sobre saber tudo, é sobre não parar de aprender.”_ 🚀  
