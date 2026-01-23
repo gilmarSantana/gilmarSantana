@@ -42,6 +42,7 @@ Desenvolvedor Full Stack com 5 anos de experiência em sistemas corporativos par
 <a href="https://github.com/gilmarSantana" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/github/followers/gilmarSantana?label=Seguir&style=social" />
 </a>
+<br>
 ---
 
 > _“Não é sobre saber tudo, é sobre não parar de aprender.”_ 🚀  
