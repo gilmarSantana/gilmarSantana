@@ -12,7 +12,7 @@ Desenvolvedor Full Stack com 5 anos de experiência em sistemas corporativos par
 
 🛠️ Tecnologias e habilidades:
 - **Linguagens**: PHP, JavaScript, Node.js, Python
-- **Banco de dados**: PostgreSQL
+- **Banco de dados**: PostgreSQL, Mysql, MongoDB
 - **Integrações**: APIs, automação de processos
 - **Metodologias**: Análise de requisitos, processos e escalabilidade
 - **Boas práticas**: Clean code, versionamento, documentação
@@ -21,12 +21,13 @@ Desenvolvedor Full Stack com 5 anos de experiência em sistemas corporativos par
 
 ---
 
-## 🚀 Tecnologias em estudo
+## 🚀 Tecnologias em estudo ou no radar
 
-- 🧠 POO em linguagens modernas
-- 📦 Containers e microserviços
-- 🕸️ APIs REST e integrações
-- 🧪 Testes automatizados
+- POO em linguagens modernas
+- Containers e microserviços
+- APIs REST e integrações
+- Testes automatizados
+- Cloud
 
 ---
 
