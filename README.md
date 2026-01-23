@@ -6,9 +6,9 @@
 
 Desenvolvedor Full Stack com 5 anos de experiência em sistemas corporativos para logística e gestão empresarial.
 
-💼 Atualmente: Buscando novos desafios
-🎯 Foco: Backend (PHP, Node.js) e integração de sistemas
-📍 São Paulo, Brasil
+- 💼 Atualmente: Buscando novos desafios
+- 🎯 Foco: Backend (PHP, Node.js) e integração de sistemas
+- 📍 São Paulo, Brasil
 
 🛠️ Tecnologias e habilidades:
 - **Linguagens**: PHP, JavaScript, Node.js, Python
