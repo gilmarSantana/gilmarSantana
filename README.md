@@ -4,9 +4,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Web Full Stack** com foco em sistemas corporativos voltados para a **otimização de processos empresariais**, principalmente nas áreas de **logística**, **ERP** e **gestão de pedidos**.
+Desenvolvedor Full Stack com 5 anos de experiência em sistemas corporativos para logística e gestão empresarial.
 
-Atuo fortemente no **backend** e também entrego interfaces **responsivas e intuitivas** no **frontend**, otimizadas para **PCs, celulares e coletores de dados**.
+💼 Atualmente: Buscando novos desafios
+🎯 Foco: Backend (PHP, Node.js) e integração de sistemas
+📍 São Paulo, Brasil
 
 🛠️ Tecnologias e habilidades:
 - **Linguagens**: PHP, JavaScript, Node.js, Python
