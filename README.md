@@ -1,6 +1,6 @@
 # Gilmar Santana Lins
 
-### Backend Developer · PHP · Laravel · PostgreSQL
+### Fullstack Developer · PHP · Laravel · PostgreSQL
 
 Desenvolvedor de Software com **6 anos de experiência** no desenvolvimento e manutenção de aplicações web para processos de negócio e operações logísticas.
 
